@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://apolloapp.io/apollo-head.svg" width=200 />
+</p>
+
 # Apollo Bug Tracker 🐛
 
 Hey! Here's a helpful little bug tracker for known issues with [Apollo for Reddit](https://apolloapp.io), so if you have a bug to report you can check the “Issues” tab up above to see if it's already been reported. I'm just one guy working on Apollo so I can't promise I'll be able to fix the bug in a report instantly, but I do really want to know about the bugs so I can fix them as soon as I can! 
