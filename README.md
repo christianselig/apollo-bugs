@@ -16,6 +16,10 @@ Then, go to the “Issues” tab at the top, then select “New Issue” and sim
 
 Go to the “Issues” tab at the top, and there's a search bar at the top so you can search to see if it's already been submitted. If not, report away! If it has been reported though feel free to add more information to the discussion, or you can tap the + button with the smiley to vote on it to indicate it affects you too. 
 
+### What can I do to help if the bug I'm having an issue with has already been reported?
+
+A massive part of solving a bug is just about reproducing it, which just means being able to consistently make it happen. If I can't make it happen, it's super hard to solve! So if you can make it happen and try to figure out the steps that always make it happen, please post those as a comment on the discussion, it'll help so much!
+
 ### Why do I need to sign up for an account here?
 
 GitHub's an awesome site that's really well-suited for bug tracking. It'll keep things more organized than having bug bug discussions, feature requests, memes, announcement posts, and more all in the subreddit. Having to sign up for an account is super quick though and helps cut down on spam, so it's worth it, trust me! [Sign Up](https://github.com/)
