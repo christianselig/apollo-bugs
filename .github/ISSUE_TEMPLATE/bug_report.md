@@ -17,7 +17,7 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-** iOS version**: Version of iOS this bug occurred on (can be found in Settings.app > General)
+**iOS version**: Version of iOS this bug occurred on (can be found in Settings.app > General)
 **Apollo version**: Version of Apollo this bug occurred on (can be found in Apollo's Settings tab > About)
 **iOS device**: For example iPhone XS, iPad mini, etc.
 **Jailbroken**: Whether or not your device is jailbroken
